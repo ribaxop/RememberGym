@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RememberGym</string>
+    <string name="remember_gym">RememberGym</string>
+    <string name="buscar_ejercicios">Buscar ejercicios</string>
+</resources>
